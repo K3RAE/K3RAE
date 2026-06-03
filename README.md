@@ -70,11 +70,6 @@ If you're here looking for someone who follows the template — wrong profile.
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=K3RAE&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3RAE&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="160"/>
-</p>
-
-<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K3RAE&theme=github_dark" width="100%"/>
 </p>
 
