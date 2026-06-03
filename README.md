@@ -181,7 +181,7 @@ Early Alzheimer's detection using **multi-modal data fusion**. Jupyter-based, de
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4B6BFB?style=for-the-badge&logo=google&logoColor=white)
-![Odysseus](https://img.shields.io/badge/Adysseus_AI-6C3483?style=for-the-badge&logo=sparkles&logoColor=white)
+![Odysseus](https://img.shields.io/badge/Odysseus_AI-6C3483?style=for-the-badge&logo=sparkles&logoColor=white)
 ![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **DevOps & Workflow**
